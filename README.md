@@ -9,4 +9,4 @@ GeoJSON Data : [click link to download zip file](https://www.naturalearthdata.co
 
 Choropleth Map : [click link to preview map](https://naimackerman.github.io/Analisis-Data-Kependudukan/choropleth_map.html)
 
-![Choropleth Map](https://github.com/naimackerman/Analisis-Data-Kependudukan/blob/d3790f44adfd75240fd472d0fcbb1253d5368c52/newplot.png)
+<img src="https://github.com/naimackerman/Analisis-Data-Kependudukan/blob/d3790f44adfd75240fd472d0fcbb1253d5368c52/newplot.png" alt="Choropleth Map">
